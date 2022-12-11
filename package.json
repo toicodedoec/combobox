@@ -1,7 +1,7 @@
 {
-  "name": "@toicodedoec/combobox",
+  "name": "super-combobox",
   "version": "0.0.1",
-  "description": "@newui/combobox description",
+  "description": "super-combobox description",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
@@ -14,17 +14,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/toicodedoec/combobox.git"
+    "url": "git+https://github.com/toicodedoec/super-combobox.git"
   },
   "keywords": [
-    "combobox"
+    "combobox",
+    "tree",
+    "multiselect",
+    "checkbox",
+    "filter",
+    "uncontrolled",
+    "controlled",
+    "dropdown",
+    "list",
+    "custom ui"
   ],
   "author": "thehashtable",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/toicodedoec/combobox/issues"
+    "url": "https://github.com/toicodedoec/super-combobox/issues"
   },
-  "homepage": "https://github.com/toicodedoec/combobox#readme",
+  "homepage": "https://github.com/toicodedoec/super-combobox#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^23.0.4",
     "@rollup/plugin-node-resolve": "^15.0.1",
@@ -35,9 +44,5 @@
     "rollup-plugin-dts": "^5.0.0",
     "tslib": "^2.4.1",
     "typescript": "^4.9.4"
-  },
-  "publishConfig": {
-    "access": "public",
-    "@toicodedoec:registry": "https://npm.pkg.github.com/"
   }
 }
