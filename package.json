@@ -38,6 +38,6 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "@toicodedoec:registry": "https://npm.pkg.github.com/"
   }
 }
