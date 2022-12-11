@@ -1,0 +1,43 @@
+{
+  "name": "@toicodedoec/combobox",
+  "version": "0.0.1",
+  "description": "@newui/combobox description",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "rollup": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toicodedoec/combobox.git"
+  },
+  "keywords": [
+    "combobox"
+  ],
+  "author": "thehashtable",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toicodedoec/combobox/issues"
+  },
+  "homepage": "https://github.com/toicodedoec/combobox#readme",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^23.0.4",
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "@rollup/plugin-typescript": "^10.0.1",
+    "@types/react": "^18.0.26",
+    "react": "^18.2.0",
+    "rollup": "^3.7.2",
+    "rollup-plugin-dts": "^5.0.0",
+    "tslib": "^2.4.1",
+    "typescript": "^4.9.4"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
