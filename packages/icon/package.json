@@ -26,5 +26,11 @@
   },
   "bugs": {
     "url": "https://github.com/toicodedoec/combobox/issues"
+  },
+  "peerDependencies": {
+    "react": "18.x"
+  },
+  "devDependencies": {
+    "react": "^18.2.0"
   }
 }
