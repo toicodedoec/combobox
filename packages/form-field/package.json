@@ -1,0 +1,30 @@
+{
+  "name": "@free-ui/form-field",
+  "version": "0.0.0",
+  "description": "Form Field is a wrapper that provides an editable component with various states, a descriptive lable, help text and optional or required flags. It's typically used in the context of a form.",
+  "keywords": [],
+  "author": "Potato <toicodedoec@gmail.com>",
+  "homepage": "https://github.com/toicodedoec/super-combobox/tree/main/packages/form-field#readme",
+  "license": "ISC",
+  "main": "lib/form-field.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toicodedoec/combobox.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/@free-ui/form-field.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/toicodedoec/combobox/issues"
+  }
+}

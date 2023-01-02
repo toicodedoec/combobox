@@ -1,0 +1,30 @@
+{
+  "name": "@free-ui/list",
+  "version": "0.0.0",
+  "description": "The List component allows the user to select one or more items from an array of options, with selected values displayed as such. Long Lists are shown in a scrolling pane to provide access to all options in a space-efficient way.",
+  "keywords": [],
+  "author": "Potato <toicodedoec@gmail.com>",
+  "homepage": "https://github.com/toicodedoec/super-combobox/tree/main/packages/list#readme",
+  "license": "ISC",
+  "main": "lib/list.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toicodedoec/combobox.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/@free-ui/list.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/toicodedoec/combobox/issues"
+  }
+}

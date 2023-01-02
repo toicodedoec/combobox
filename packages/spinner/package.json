@@ -1,0 +1,30 @@
+{
+  "name": "@free-ui/spinner",
+  "version": "0.0.0",
+  "description": "A Spinner is a visual representation of a process that is taking an indeterminate time to complete. This can be triggered by automated system processes, user action, or to indicate that content is loading. This reassures the user that the system is still working, especially when the operation is taking longer than 300ms.",
+  "keywords": [],
+  "author": "Potato <toicodedoec@gmail.com>",
+  "homepage": "https://github.com/toicodedoec/super-combobox/tree/main/packages/spinner#readme",
+  "license": "ISC",
+  "main": "lib/spinner.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toicodedoec/combobox.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/@free-ui/spinner.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/toicodedoec/combobox/issues"
+  }
+}

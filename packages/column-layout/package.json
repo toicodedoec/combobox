@@ -1,0 +1,30 @@
+{
+  "name": "@free-ui/column-layout",
+  "version": "0.0.0",
+  "description": "The Column Layout component is a CSS driven reponsive layout manager. It adapts to screen size and orientation, ensuring consistency across layouts uisng CSS flexbox.",
+  "keywords": [],
+  "author": "Potato <toicodedoec@gmail.com>",
+  "homepage": "https://github.com/toicodedoec/super-combobox/tree/main/packages/column-layout#readme",
+  "license": "ISC",
+  "main": "lib/column-layout.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toicodedoec/combobox.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/@free-ui/column-layout.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/toicodedoec/combobox/issues"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "@free-ui/style",
+  "version": "0.0.0",
+  "description": "Foundation styles for the @free-ui UI Toolkit.",
+  "keywords": [],
+  "author": "Potato <toicodedoec@gmail.com>",
+  "homepage": "https://github.com/toicodedoec/super-combobox/tree/main/packages/style#readme",
+  "license": "ISC",
+  "main": "lib/style.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toicodedoec/combobox.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/@free-ui/style.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/toicodedoec/combobox/issues"
+  }
+}
