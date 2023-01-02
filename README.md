@@ -1,2 +1,2 @@
 # super-combobox
-super-combobox
+super-combobox placeholder
